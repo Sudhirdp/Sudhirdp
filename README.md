@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhirdp&label=Profile%20views&color=0e75b6&style=flat" alt="sudhirdp" /> </p>
 
-  <p>I am an undergraduate student who started my journey as a Java Developer. I am eager to contribute and learn as much as possible. Currently, I am focusing on learning Mobile Application Development using the Flutter Framework and Dart programming language. While I am proficient in Java, I am always looking for ways to improve my skills and become a master in the field.
+  <p>I am an undergraduate student who started my journey as a Java Developer. I am eager to contribute and learn as much as possible. In my web development journey, I've dived into the essentials of HTML, CSS, and JavaScript, laying a solid foundation for building dynamic interfaces. I've explored server-side scripting using Node.js and Express.js, focusing on creating robust and scalable web applications. Through hands-on projects, I've fine-tuned my skills, ensuring a deep understanding of core web development principles. Currently, I am focusing on learning Mobile Application Development using the Flutter Framework and Dart programming language. While I am proficient in Java, I am always looking for ways to improve my skills and become a master in the field.
 </p>
 
 ***
